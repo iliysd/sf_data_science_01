@@ -1,4 +1,4 @@
-"игра угадай число_"
+"игра угадай_число_"
 
 import numpy as np
 number=np.random.randint(1,101)##загадываем число (guess the number)
